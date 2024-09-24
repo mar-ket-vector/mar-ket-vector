@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!--<h1 align="center">Hi 👋, I'm x86-512</h1>-->
-<h3 align="center">I am a new cybersecurity student aspiring to be a red teamer</h3>
+<h3 align="left">I am a new cybersecurity student aspiring to be a red teamer</h3>
 
 - 🌱 I’m currently learning **CUDA-Q, Qiskit, and Tensorflow**
 
