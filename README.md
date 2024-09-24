@@ -11,8 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x86-512&show_icons=true&locale=en&layout=compact" alt="x86-512" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x86-512&show_icons=true&locale=en" alt="x86-512" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x86-512&theme=highcontrast" alt="x86-512" /></p>
 
 
