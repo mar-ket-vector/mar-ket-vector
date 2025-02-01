@@ -2,7 +2,7 @@
 <!--<h1 align="center">Hi 👋, I'm x86-512</h1>-->
 <h3 align="left">I am a new cybersecurity student aspiring to be a red teamer</h3>
 
-- 🌱 I am currently learning **CUDA-Q, Qiskit, and Tensorflow**
+- 🌱 I am currently learning **Qiskit, Bug-Bounty Hunting, and Exploit Development**
 - 💬 Ask me about Quantum Computing or Binary Exploitation
 - 👯 I’m looking to collaborate on any project for a red teaming tool or quantum computing project
 
